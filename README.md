@@ -7,6 +7,7 @@ This repository contains downloadable releases of applications developed by Sidd
 ## Available Software
 
 - EPIC Odisha
+- AIR India
 
 ## Downloads
 
